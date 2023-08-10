@@ -8,4 +8,5 @@
 What im currently working on:
 - creating a mobile application for an NGO in StillBaai (Group Project)
 - Collatz Conjecture graph work
+- Tree data structure combined with the Dewey Decimal System
 - Bird-watching app which utilizes eBird2.0 API (Group Project)
