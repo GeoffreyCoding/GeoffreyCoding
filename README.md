@@ -5,3 +5,7 @@
 - 💞️ I’m looking for any internships which will grow my skills in any way
 - 📫 You can reach me via my Outlook email ST10081932@vcconnect.edu.za
 
+What im currently working on:
+- creating a mobile application for an NGO in StillBaai (Group Project)
+- Collatz Conjecture graph work
+- Bird-watching app which utilizes eBird2.0 API (maps)
