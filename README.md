@@ -6,7 +6,7 @@
 - 📫 You can reach me via my Outlook email ST10081932@vcconnect.edu.za
 
 What im currently working on:
-- creating a mobile application for an NGO in StillBaai (Group Project)
-- Collatz Conjecture graph work
-- Tree data structure combined with the Dewey Decimal System
+- Creating a mobile application for an NGO in StillBaai (Group Project)
+- Admin dashboard with REACT (Side Project)
+- Tree data structure combined with the Dewey Decimal System (C# visual Studio)
 - Bird-watching app which utilizes eBird2.0 API (Group Project)
